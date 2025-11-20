@@ -3,15 +3,15 @@ Hi 👋 Is me !
 
 ```json
 {
-  "name": "Ricco Xie",
+  "name": "Eyeix X",
   "yob": 2000,
   "gender": "male",
   "nationality": "Chinese",
   "location": "China",
   "languages": ["Chinese", "English"],
   "experience": "Full-Stack Software Engineer",
-  "homepage": "https://riccox.com",
-  "email": "ricco@riccox.com",
+  "homepage": "https://eyeix.io",
+  "email": "x@eyeix.io",
   "skills": {
     "languages": ["JavaScript", "TypeScript", "Java", "Dart"],
     "frameworks": [
@@ -26,7 +26,8 @@ Hi 👋 Is me !
       "Electron",
       "UniAPP",
       "Flutter",
-      "Spring Boot"
+      "Spring Boot",
+      "TailwindCSS"
     ],
     "databases": [
       "PostgreSQL",
@@ -44,7 +45,8 @@ Hi 👋 Is me !
       "Kubernetes",
       "Git",
       "AWS",
-      "Alibaba Cloud"
+      "Alibaba Cloud",
+      "Tencent Cloud"
     ]
   }
 }
