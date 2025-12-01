@@ -10,45 +10,45 @@ Hi 👋 Is me !
   "location": "China",
   "languages": ["Chinese", "English"],
   "experience": "Full-Stack Software Engineer",
-  "homepage": "https://eyeix.io",
+  "homepage": "https://www.eyeix.io",
   "email": "x@eyeix.io",
-  "skills": {
-    "languages": ["JavaScript", "TypeScript", "Java", "Dart"],
-    "frameworks": [
-      "React.js",
-      "Vue.js",
-      "Node.js",
-      "Bun.js",
-      "Next.js",
-      "Nest.js",
-      "Hono.js",
-      "Vite.js",
-      "Electron",
-      "UniAPP",
-      "Flutter",
-      "Spring Boot",
-      "TailwindCSS"
-    ],
-    "databases": [
-      "PostgreSQL",
-      "MySQL",
-      "Redis",
-      "MongoDB",
-      "Elasticsearch",
-      "SurrealDB",
-      "SQLite"
-    ],
-    "tools": [
-      "Linux",
-      "Ubuntu",
-      "Docker",
-      "Kubernetes",
-      "Git",
-      "AWS",
-      "Alibaba Cloud",
-      "Tencent Cloud"
-    ]
-  }
+  "skills": [
+    "JavaScript",
+    "TypeScript",
+    "Java",
+    "Dart",
+    "React.js",
+    "Vue.js",
+    "Node.js",
+    "Bun",
+    "Next.js",
+    "Nest.js",
+    "Hono.js",
+    "Vite.js",
+    "Electron",
+    "UniAPP",
+    "Flutter",
+    "Spring Boot",
+    "TailwindCSS",
+    "PostgreSQL",
+    "MySQL",
+    "Redis",
+    "MongoDB",
+    "Elasticsearch",
+    "RabbitMQ",
+    "SurrealDB",
+    "SQLite",
+    "Linux",
+    "Ubuntu",
+    "Docker",
+    "Kubernetes",
+    "Git",
+    "AWS",
+    "Alibaba Cloud",
+    "Tencent Cloud",
+    "Frp",
+    "OpenWRT"
+  ]
 }
 ```
 
@@ -56,4 +56,4 @@ Hi 👋 Is me !
 
 ### Support Me
 
-<a href="https://www.buymeacoffee.com/riccoxie"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://www.buymeacoffee.com/eyeix"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
